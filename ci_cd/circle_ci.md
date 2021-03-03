@@ -14,6 +14,10 @@ Some important concepts:
 - __Steps__
 - __Orbs__: Shareable packages of steps and jobs.
 
+## Environment variables
+
+Useful to keep secrets like API Keys.
+
 ## Alternatives
 
 - Jenkins
